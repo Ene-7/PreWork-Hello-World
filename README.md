@@ -1,6 +1,6 @@
 # PreWork-Hello-World
 
-## NAME_OF_YOUR_APP_HERE
+## Hello World!
 
 ### App Description
 A simple Android application that includes a Text area and two buttons. The purpouse of this app was to learn how to create a basic application using Android studio. 
