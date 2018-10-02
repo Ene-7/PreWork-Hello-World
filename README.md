@@ -7,7 +7,7 @@ A simple Android application that includes a Text area and two buttons. The purp
 
 ### App Walk-though
 
-<img src="https://media.discordapp.net/attachments/473672749785546764/496512475613888513/HEeuoNprGS.gif?width=375&height=752" width=200><br>
+<img src="https://media.giphy.com/media/3xgH42qz0NVaeLneFC/giphy.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
